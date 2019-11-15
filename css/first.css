@@ -70,26 +70,18 @@ p {
 
 .popup2 {
 	position: relative;
-	display: inline-block;
-	cursor: pointer;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
 }
   
 .popup2 .popuptext2 {
 	visibility: hidden;
 	width: 160px;
 	background-color: #bf001d;
-	color: #fff;
+	color: white;
 	text-align: center;
-	border-radius: 6px;
-	padding: 8px 0;
+	border-radius: 10px;
+	padding: 5px 0;
 	position: absolute;
-	z-index: 1;
-	bottom: 125%;
-	left: 50%;
+	bottom: 110%;
 	margin-left: -80px;
 }
   
@@ -110,26 +102,18 @@ p {
 
 .popup3 {
 	position: relative;
-	display: inline-block;
-	cursor: pointer;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
 }
   
 .popup3 .popuptext3 {
 	visibility: hidden;
 	width: 160px;
 	background-color: #bf001d;
-	color: #fff;
+	color: white;
 	text-align: center;
-	border-radius: 6px;
-	padding: 8px 0;
+	border-radius: 10px;
+	padding: 5px 0;
 	position: absolute;
-	z-index: 1;
-	bottom: 125%;
-	left: 50%;
+	bottom: 110%;
 	margin-left: -80px;
 }
   
@@ -150,26 +134,18 @@ p {
 
 .popup4 {
 	position: relative;
-	display: inline-block;
-	cursor: pointer;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
 }
   
 .popup4 .popuptext4 {
 	visibility: hidden;
 	width: 160px;
 	background-color: #bf001d;
-	color: #fff;
+	color: white;
 	text-align: center;
-	border-radius: 6px;
-	padding: 8px 0;
+	border-radius: 10px;
+	padding: 5px 0;
 	position: absolute;
-	z-index: 1;
-	bottom: 125%;
-	left: 50%;
+	bottom: 110%;
 	margin-left: -80px;
 }
   
@@ -187,4 +163,3 @@ p {
 .popup4 .show {
 	visibility: visible;
 }
-  
